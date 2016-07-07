@@ -1,0 +1,21 @@
+
+.quote-box {
+	margin-top: 50px;
+	font-family: "Oxygen Mono"
+	}
+
+#main {
+	background-color: #DE9292;
+	}
+
+#quote-content {
+	font-size: 2em;
+	}
+
+a {
+	color: white !important;
+	}
+
+#quote-author {
+	font-size: 1.2em;
+	}
